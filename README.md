@@ -7,9 +7,8 @@ npm create astro@latest -- --template basics
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
 [![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/s/github/withastro/astro/tree/latest/examples/basics)
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
-![basics](https://user-images.githubusercontent.com/4677417/186188965-73453154-fdec-4d6b-9c34-cb35c248ae5b.png)
+![basics](https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Fthe-rocks-eyebrow-raise&psig=AOvVaw1-Gpvu-eaTvcAXFO22Jz7h&ust=1675611663075000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCQkoCa_PwCFQAAAAAdAAAAABAE)
 
 
 ## 🚀 Project Structure
